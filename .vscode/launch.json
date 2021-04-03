@@ -6,6 +6,7 @@
     "configurations": [
 
 
+
  
     
         {
@@ -34,6 +35,18 @@
             "request": "launch",
             "name": "Open Testejs03.html",
             "file": "c:\\Users\\muril\\Documents\\JV\\Html\\Curso html5\\projeto-glass-html5\\testejs03.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open google-glass.html",
+            "file": "c:\\Users\\muril\\Documents\\JV\\Html\\Curso html5\\projeto-glass-html5\\google-glass.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open specs.html",
+            "file": "c:\\Users\\muril\\Documents\\JV\\Html\\Curso html5\\projeto-glass-html5\\specs.html"
         }
     ]
 }
